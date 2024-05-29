@@ -1,0 +1,6 @@
+[submodule "content/SDSU-CS556-Workspace"]
+	path = content/SDSU-CS556-Workspace
+	url = https://github.com/olivecasazza/SDSU-CS556-Workspace
+[submodule "content/SDSU-CS559-Workspace"]
+	path = content/SDSU-CS559-Workspace
+	url = https://github.com/olivecasazza/SDSU-CS559-Workspace
