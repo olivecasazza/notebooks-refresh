@@ -56,4 +56,4 @@ requests
 sympy
 tinyik
 tornado
-cv2
+opencv-python
