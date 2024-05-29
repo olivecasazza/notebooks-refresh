@@ -57,3 +57,4 @@ sympy
 tinyik
 tornado
 opencv-python
+nbformat
