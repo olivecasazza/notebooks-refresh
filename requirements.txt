@@ -58,3 +58,4 @@ tinyik
 tornado
 opencv-python
 nbformat
+ipykernel
