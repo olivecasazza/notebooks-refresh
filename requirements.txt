@@ -49,7 +49,7 @@ scipy
 scikit-image
 scikit-learn
 pandas
-plotly
+plotly==5.19
 kaleido
 psutil
 requests
